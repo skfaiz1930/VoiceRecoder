@@ -1,3 +1,3 @@
 # VoiceRecoder
-This a Voice Recording Android App.
+This is a Voice Recording Android App.
 
